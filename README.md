@@ -7,10 +7,10 @@
 
 - 👀 I’m currently building a **Fullstack Next App with ChatGPT**
 
-- 💬 Ask me about **React, p5js, NodeJS, Python**
+- 💬 Ask me about **React, Rust, NodeJS, Python**
 
-- 👓 I am currently studying in Paris, persuing a diploma in **Architect Concepteur
-  Developeur d'applications** (2023 - 2024) 
+- 👓 I am currently studying in Paris, persuing an undegraduate degree in **Architect Concepteur
+  Developeur d'applications** (2023 - 2024)
 
 - 📫 How to reach me **locinone@prontonmail.com**
 
